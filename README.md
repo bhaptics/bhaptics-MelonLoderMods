@@ -6,4 +6,9 @@
 * Many thanks to Novius for creating this mod tool
 
 ### VRChat
-* Developing by [HerpDerpinstine](https://github.com/HerpDerpinstine)
+* Developed by 
+  * [HerpDerpinstine](https://github.com/HerpDerpinstine)
+  * [Sanghoon Kim](https://github.com/SanghunK)
+
+* [Getting Started](VRC/README.md)
+
