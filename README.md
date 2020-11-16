@@ -8,7 +8,7 @@
 ### VRChat
 * Developed by 
   * [HerpDerpinstine](https://github.com/HerpDerpinstine)
-  * [Sanghoon Kim](https://github.com/SanghunK)
+  * [Sanghun Kim](https://github.com/SanghunK)
 
 * [Getting Started](VRC/README.md)
 
