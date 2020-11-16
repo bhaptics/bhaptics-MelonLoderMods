@@ -1,12 +1,12 @@
 ### 1. Setting up MelonLoader
-* https://github.com/SanghunK/vrchat-bhaptics-mod/releases/download/v0.5.7/Beta.VRChat.bHaptics.Mods.Guide.1.pdf 
+* [VRChat bHaptics Mods Guide](https://github.com/bhaptics/bhaptics-MelonLoderMods/files/5544291/Beta.VRChat.bHaptics.Mods.Guide.pdf)
 
 ### 2. Test the avatar(Use predefined bhaptics avatars)
-* Connect to bHaptics Avatar World: https://vrchat.com/i/bulgur-slickshin-b3691 
+* Connect to [bHaptics Avatar World](https://vrchat.com/i/tressica-frejalike-2e74a)
 
 * Click Launch World
 
-![image](https://user-images.githubusercontent.com/1837913/98932613-e8d01980-2522-11eb-85ad-87f3421b28ab.png)
+![Launch](https://user-images.githubusercontent.com/25029820/99216211-74de8b80-2818-11eb-97b0-c7d7db0a8a13.png)
 
 * Select a avatar. Done!!
 
@@ -14,10 +14,10 @@
 
 
 ### 3. Upload your own avatar
-* Download VRC SDK: https://docs.vrchat.com/docs/choosing-your-sdk
+* Download [VRC SDK](https://docs.vrchat.com/docs/choosing-your-sdk)
 * Download [VRCBhapticsAI](https://github.com/SanghunK/vrchat-bhaptics-mod/releases/download/v0.5.7/VRCBhapticsAI_v1.0.0.unitypackage)
 
-* Please check this [video guide](https://github.com/SanghunK/vrchat-bhaptics-mod/releases/download/v0.5.7/Guide_HowToSetupUnity.mp4) to set the avatar
+* Please check this [Video Guide](https://github.com/SanghunK/vrchat-bhaptics-mod/releases/download/v0.5.7/Guide_HowToSetupUnity.mp4) to set the avatar.
 
 
 
