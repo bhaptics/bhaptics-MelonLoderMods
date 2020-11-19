@@ -6,7 +6,7 @@
 
 * Click Launch World
 
-![Launch](https://user-images.githubusercontent.com/25029820/99216211-74de8b80-2818-11eb-97b0-c7d7db0a8a13.png)
+![Launch](https://user-images.githubusercontent.com/25029820/99632794-2bdd4000-2a81-11eb-96f2-5f60ec962e2e.png)
 
 * Select a avatar. Done!!
 
