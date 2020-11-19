@@ -2,7 +2,7 @@
 * [VRChat bHaptics Mods Guide](https://github.com/bhaptics/bhaptics-MelonLoderMods/files/5544291/Beta.VRChat.bHaptics.Mods.Guide.pdf)
 
 ### 2. Test the avatar(Use predefined bhaptics avatars)
-* Connect to [bHaptics Avatar World](https://vrchat.com/i/tressica-frejalike-2e74a)
+* Connect to [bHaptics Avatar World](https://vrchat.com/home/launch?worldId=wrld_84e1a940-c139-44dc-8ddf-e2a3c5b2a4d9)
 
 * Click Launch World
 
