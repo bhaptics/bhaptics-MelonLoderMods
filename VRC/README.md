@@ -15,7 +15,7 @@
 
 ### 3. Upload your own avatar
 * Download [VRC SDK](https://docs.vrchat.com/docs/choosing-your-sdk)
-* Download [VRCBhapticsAI](https://github.com/bhaptics/bhaptics-MelonLoderMods/releases/latest/download/VRCBhapticsIntegration_v1.0.2.unitypackage)
+* Download [VRCBhapticsAI](https://github.com/bhaptics/bhaptics-MelonLoderMods/releases/latest/download/VRCBhapticsIntegration_v1.0.3.unitypackage)
 
 * Please check this [Video Guide](https://github.com/SanghunK/vrchat-bhaptics-mod/releases/download/v0.5.7/Guide_HowToSetupUnity.mp4) to set the avatar.
 
